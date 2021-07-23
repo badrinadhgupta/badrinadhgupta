@@ -40,5 +40,5 @@ I'm currently pursuing bachelor's at PES University, majoring in Electronics and
 <a href="https://github.com/badrinadhgupta" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/badri-nerella-6166a81b7/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/badri_nerella" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a> 
-<a href="mailto:nerella.rabasa@gmail.com?subject=From your Github Profile" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" /></a> 
+<a href="mailto:nerella.rabasa@gmail.com?subject=From your Github Profile" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 </p>
