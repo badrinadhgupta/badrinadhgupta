@@ -45,4 +45,3 @@ I'm Currently pursuing bachelor's at PES University, majoring in Electronics and
 
 <a href="mailto:nerella.rabasa@gmail.com?subject=From your Github Profile" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 </p>
-<br />
