@@ -13,6 +13,7 @@ I'm Currently pursuing bachelor's at PES University, majoring in Electronics and
 <br />
 
 ## I'm familiar with:
+<p>
 
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="VS" src="https://img.shields.io/badge/language-System%20Verilog-blue" />
@@ -23,15 +24,15 @@ I'm Currently pursuing bachelor's at PES University, majoring in Electronics and
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
-
+</p>
 <br />
 
 ## Frameworks I've worked with: 
-
+<p>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
-
+</p>
 <br />
 
 ## Connect with me:
