@@ -10,6 +10,8 @@ I'm Currently pursuing bachelor's at PES University, majoring in Electronics and
 - Love to talk about crypto and blockchain!
 - Basically, I'm a biker who loves to code.
 
+<br />
+
 ## I'm familiar with:
 
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -21,6 +23,8 @@ I'm Currently pursuing bachelor's at PES University, majoring in Electronics and
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
+
+<br />
 
 ## Frameworks I've worked with: 
 
@@ -40,3 +44,4 @@ I'm Currently pursuing bachelor's at PES University, majoring in Electronics and
 
 <a href="mailto:nerella.rabasa@gmail.com?subject=From your Github Profile" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 </p>
+<br />
