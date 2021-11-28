@@ -1,6 +1,6 @@
-### Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+<!-- ### Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> -->
 
-# My name is Badri 
+# Hey!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Badri
 I'm currently pursuing bachelor's at PES University, majoring in Electronics and Communication Engineering.
 
 <br />
